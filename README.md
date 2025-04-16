@@ -1,6 +1,6 @@
 # Barcode Cashier System
 
-![Barcode Cashier System]([https://github.com/afrafadhma/barcode-cashier/raw/main/app_screenshot.png](https://github.com/Afra4509/kasir?tab=readme-ov-file))
+![Barcode Cashier System](https://github.com/Afra4509/kasir/raw/main/app_screenshot.png)
 
 ## 🛒 Overview
 
@@ -29,8 +29,8 @@ Barcode Cashier System adalah aplikasi desktop yang menggunakan AI untuk meminda
 
 1. Clone repository ini:
 ```bash
-
-cd barcode-cashier
+git clone https://github.com/Afra4509/kasir.git
+cd kasir
 ```
 
 2. Buat dan aktifkan virtual environment (opsional tapi disarankan):
@@ -74,7 +74,7 @@ python cashier_app.py
 ## 🛠️ Struktur Kode
 
 ```
-barcode-cashier/
+kasir/
 ├── cashier_app.py            # File utama aplikasi
 ├── README.md                 # Dokumen ini
 ├── requirements.txt          # Daftar dependensi
@@ -114,13 +114,13 @@ Model AI menggunakan arsitektur MobileNetV2 dengan transfer learning untuk menge
 - [ ] Laporan penjualan dan analitik
 - [ ] Integrasi dengan printer termal untuk struk
 - [ ] Versi mobile app untuk platform Android/iOS
-- [ ] 
+
 
 ## 📞 Kontak
 
-Afra Fadhma Dinata - [afrafadmadinata@gmail.com](mailto:afrafadmadinata@gmail.com)
+Afra Fadhma Dinata - [afrafadhmadinata@gmail.com](mailto:afrafadhmadinata@gmail.com)
 
-Link Proyek: [https://github.com/afrafadhma/barcode-cashier](https://github.com/Afra4509/kasir?tab=readme-ov-file)
+Link Proyek: [https://github.com/Afra4509/kasir](https://github.com/Afra4509/kasir)
 
 ---
 
